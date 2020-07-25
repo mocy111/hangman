@@ -1,0 +1,27 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif !important;
+    background-color: rgb(211, 210, 210) !important;
+	background-repeat: no-repeat !important;
+	background-size:40% !important; 
+	background-position: top center !important;
+	height:100% !important;
+	font-weight: bold !important;
+	font-size: 120% !important;
+	transition: all .4s ease-in-out !important;
+}
+h1{
+	font-size:700% !important;
+	width: 100% !important;
+	
+	color: black !important;
+
+}
+
+h1{
+	margin: 20px !important; 
+	font-size:700% !important;
+	width: 96% !important;
+	background-color: rgba(0,0,0,.6); 
+	color:white !important;
+	transition:color .4s, background-color.4s !important;
+}
